@@ -30,11 +30,8 @@ body {
 }
 .logo-text{
   position: relative;
-  font-family: 'Dancing Script', cursive;
-  font-size: 2rem;
-  color: #ff7171;
-  margin: 0;
-
+  height:100px;
+  width:90px;	
 }
 
 
