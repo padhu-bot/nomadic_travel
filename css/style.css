@@ -28,10 +28,10 @@ body {
   display: flex;
   flex-wrap: wrap;
 }
-.logo-text{
+.logo{
   position: relative;
-  height:80px;
-  width:70px;	
+  height:100px;
+  width:90px;	
 }
 
 
